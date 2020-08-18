@@ -4,7 +4,7 @@
       "ip": 764001992, 
       "id": {
         "@type": "pub.ed25519", 
-        "key": "c5n7nXo8HwT5E/10MCsiXdqX5cJD+Ncedsk16EKd6AU="
+        "key": "idw1snGn8Vean6ZnUmEkjIHYXw7faZiqbzZ/guyTs8I="
       }, 
       "port": "46732",
       "ws":"ws://45.137.190.200:46733"
@@ -16,7 +16,7 @@
     "static_nodes": {
       "nodes": [
         {
-          "signature": "w5B9vDPU9eZOsirTnVezu8u3fCABesZ50q7N9O/hosQXzHI3ZMe65t/nz0u6ZrtQ9BjHJtID7dp0Ahtm1c58Bg==", 
+          "signature": "vRCTDvCk5AG5Q03Eq2BKz5sVGPUbOAKNujHMy6zBDeYjNRhbvxFgOvEmE8vDAKAq/tsAmIw9HJOgSzdD1OWeBQ==", 
           "version": -1, 
           "addr_list": {
             "priority": 0, 
@@ -35,7 +35,7 @@
           "@type": "dht.node", 
           "id": {
             "@type": "pub.ed25519", 
-            "key": "ITkMHyLR0hGidjywHgBqbw4spLZsxF6/xk7tRw22ES0="
+            "key": "JWPK0y7H+x9Mde8qzbjCk+rt2+ktPjwSbVceT80eai8="
           }
         }
       ], 
@@ -46,17 +46,17 @@
   "@type": "config.global", 
   "validator": {
     "zero_state": {
-      "file_hash": "Wvphs8i7g9eJZA8ITsFOi+STBXodhmpvTwH6mC8mnkQ=", 
+      "file_hash": "gNVIKXRmtyHLvChiZP11UtoXgQFlCrnWzoDcG+jTw0Q=", 
       "seqno": 0, 
-      "root_hash": "u3cDr8cPk9t1kB8WZe2dPdXURX/uQiBhxgcQ+8lAcg0=", 
+      "root_hash": "V6+V7Vy3fZzvZ3hwV49bxykYWOOoa3R0VCzc7ooNfBE=", 
       "workchain": -1, 
       "shard": -9223372036854775808
     }, 
     "@type": "validator.config.global", 
     "init_block": {
-      "file_hash": "Wvphs8i7g9eJZA8ITsFOi+STBXodhmpvTwH6mC8mnkQ=", 
+      "file_hash": "gNVIKXRmtyHLvChiZP11UtoXgQFlCrnWzoDcG+jTw0Q=", 
       "seqno": 0, 
-      "root_hash": "u3cDr8cPk9t1kB8WZe2dPdXURX/uQiBhxgcQ+8lAcg0=", 
+      "root_hash": "V6+V7Vy3fZzvZ3hwV49bxykYWOOoa3R0VCzc7ooNfBE=", 
       "workchain": -1, 
       "shard": -9223372036854775808
     }
