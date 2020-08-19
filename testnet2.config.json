@@ -4,12 +4,11 @@
       "ip": 764001992, 
       "id": {
         "@type": "pub.ed25519", 
-        "key": "idw1snGn8Vean6ZnUmEkjIHYXw7faZiqbzZ/guyTs8I="
+        "key": "OucrppUvEHH/WiQp8VmGjT0eWX0GKc6U1xWqGV/Kwlo="
       }, 
       "port": "46732",
       "ws":"ws://45.137.190.200:46733"
-    },
-    {"id":{"key":"F5sIszajERRtgkOQ5qFITeuSjmZYppOYrVeURyE3QYk=", "@type":"pub.ed25519"}, "port":"46732", "ip":860856122, "ws":"ws://51.79.159.58:46733" }
+    }
   ], 
   "dht": {
     "a": 3, 
@@ -17,7 +16,7 @@
     "static_nodes": {
       "nodes": [
         {
-          "signature": "vRCTDvCk5AG5Q03Eq2BKz5sVGPUbOAKNujHMy6zBDeYjNRhbvxFgOvEmE8vDAKAq/tsAmIw9HJOgSzdD1OWeBQ==", 
+          "signature": "mYywfb/rbzSLrcofz5vWVGSxvd6na8t3Oaw9YIO9sZ2XbOLGiVQ5FlKfXDQvIIHzKSIkopg3wUYSYiLJflwGAA==", 
           "version": -1, 
           "addr_list": {
             "priority": 0, 
@@ -36,10 +35,9 @@
           "@type": "dht.node", 
           "id": {
             "@type": "pub.ed25519", 
-            "key": "JWPK0y7H+x9Mde8qzbjCk+rt2+ktPjwSbVceT80eai8="
+            "key": "rbzMUKIKzx3YO3omAhN/w7KOZRsBcKpejd9Dn5+AoZU="
           }
-        },
-        {"@type":"dht.node","id":{"@type":"pub.ed25519","key":"f+r2OUbTLNtHFEjli+OUMqSU2dWEL0bw/h1uUY4yuXA="},"addr_list":{"@type":"adnl.addressList","addrs":[{"@type":"adnl.address.udp","ip":860856122,"port":30310}],"version":0,"reinit_date":0,"priority":0,"expire_at":0},"version":-1,"signature":"bdmswtlQjJd5Cg3Jz8bGfIFxvj9X10XMJZ0m2wTwfpqXZSJZjX0z8yLbaZaIOrRztR2hlIGfSs9lYyJoxHnWBw=="}
+        }
       ], 
       "@type": "dht.nodes"
     }, 
@@ -48,17 +46,17 @@
   "@type": "config.global", 
   "validator": {
     "zero_state": {
-      "file_hash": "gNVIKXRmtyHLvChiZP11UtoXgQFlCrnWzoDcG+jTw0Q=", 
+      "file_hash": "SHo0BeSYeLsfgv7VyN6M6dE3xl/1G05VDyQE+2shSgY=", 
       "seqno": 0, 
-      "root_hash": "V6+V7Vy3fZzvZ3hwV49bxykYWOOoa3R0VCzc7ooNfBE=", 
+      "root_hash": "4pJ0UAw4EV6ZpZUitNberSr9earbY2eP9JrQAgtmYkU=", 
       "workchain": -1, 
       "shard": -9223372036854775808
     }, 
     "@type": "validator.config.global", 
     "init_block": {
-      "file_hash": "gNVIKXRmtyHLvChiZP11UtoXgQFlCrnWzoDcG+jTw0Q=", 
+      "file_hash": "SHo0BeSYeLsfgv7VyN6M6dE3xl/1G05VDyQE+2shSgY=", 
       "seqno": 0, 
-      "root_hash": "V6+V7Vy3fZzvZ3hwV49bxykYWOOoa3R0VCzc7ooNfBE=", 
+      "root_hash": "4pJ0UAw4EV6ZpZUitNberSr9earbY2eP9JrQAgtmYkU=", 
       "workchain": -1, 
       "shard": -9223372036854775808
     }
