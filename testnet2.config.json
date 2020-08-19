@@ -8,7 +8,8 @@
       }, 
       "port": "46732",
       "ws":"ws://45.137.190.200:46733"
-    }
+    },
+    {"id":{"key":"F5sIszajERRtgkOQ5qFITeuSjmZYppOYrVeURyE3QYk=", "@type":"pub.ed25519"}, "port":"46732", "ip":860856122, "ws":"ws://51.79.159.58:46733" }
   ], 
   "dht": {
     "a": 3, 
@@ -37,7 +38,8 @@
             "@type": "pub.ed25519", 
             "key": "rbzMUKIKzx3YO3omAhN/w7KOZRsBcKpejd9Dn5+AoZU="
           }
-        }
+        },
+        {"@type":"dht.node","id":{"@type":"pub.ed25519","key":"f+r2OUbTLNtHFEjli+OUMqSU2dWEL0bw/h1uUY4yuXA="},"addr_list":{"@type":"adnl.addressList","addrs":[{"@type":"adnl.address.udp","ip":860856122,"port":30310}],"version":0,"reinit_date":0,"priority":0,"expire_at":0},"version":-1,"signature":"bdmswtlQjJd5Cg3Jz8bGfIFxvj9X10XMJZ0m2wTwfpqXZSJZjX0z8yLbaZaIOrRztR2hlIGfSs9lYyJoxHnWBw=="}
       ], 
       "@type": "dht.nodes"
     }, 
