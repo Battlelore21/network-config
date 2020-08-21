@@ -1,6 +1,7 @@
 {
   "liteservers": [
-    {"id":{"key":"nLC9ANOWYgECRlGAWUmA+xspD81tDFhb1EKQP+O9jAA=", "@type":"pub.ed25519"}, "port":"46732", "ip":764001992, "ws":"ws://45.137.190.200:46733" }
+    {"id":{"key":"nLC9ANOWYgECRlGAWUmA+xspD81tDFhb1EKQP+O9jAA=", "@type":"pub.ed25519"}, "port":"46732", "ip":764001992, "ws":"ws://45.137.190.200:46733" },
+    {"id":{"key":"TEdsaI7cPDD92VPu4S76YuMhpYDuKP991myAhCJqx0g=", "@type":"pub.ed25519"}, "port":"46732", "ip":860856122, "ws":"ws://51.79.159.58:46733" }
   ], 
   "dht": {
     "a": 3, 
@@ -29,7 +30,8 @@
             "@type": "pub.ed25519", 
             "key": "i0u0ZTneaVrTdW7nbuu1CiGUKizf5e8VMMC+0YDg8f8="
           }
-        }
+        },
+        {"@type":"dht.node","id":{"@type":"pub.ed25519","key":"8Zfj70gDcPBXRoSKhMaxQCXsS1qV7RB2N11WhSmuXgE="},"addr_list":{"@type":"adnl.addressList","addrs":[{"@type":"adnl.address.udp","ip":860856122,"port":30310}],"version":0,"reinit_date":0,"priority":0,"expire_at":0},"version":-1,"signature":"cwTvaCCSc7fAOT5tzQlANjTrfYyPIfCWioWWu6rC+HsUCF2yMD6lmCUTqaFdF0klvDC8aiCIoqTVcfL5FhDzAA=="}
       ], 
       "@type": "dht.nodes"
     }, 
